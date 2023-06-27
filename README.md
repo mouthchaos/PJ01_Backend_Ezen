@@ -40,33 +40,36 @@
 
 게시판글쓰기
 
-https://github.com/jihwan160/portfolio/assets/108442182/1accb867-630c-44a1-a1af-02b9a9913040
+https://github.com/mouthchaos/PJ01_Backend_Ezen/assets/126880223/096a7bae-e5b8-48ec-a927-57df4cc331fd
 
+글수정삭제
+
+https://github.com/mouthchaos/PJ01_Backend_Ezen/assets/126880223/ceb11f12-8d84-4363-b1bf-e3879e7af073
 
 게시판분류별서치
 
-https://github.com/jihwan160/portfolio/assets/108442182/fd96b6af-09ee-464c-9a08-6d7044e6e3e2
+https://github.com/mouthchaos/PJ01_Backend_Ezen/assets/126880223/4195fa27-07eb-4418-aa62-806efa34b0d8
 
 로그인확인_공지사항
 
-https://github.com/jihwan160/portfolio/assets/108442182/37a01cfb-2620-40fa-8a9f-adce62ae010e
+https://github.com/mouthchaos/PJ01_Backend_Ezen/assets/126880223/40bebb81-13f3-48ee-9198-0134719a214f
 
 회원가입 1
 
-https://github.com/jihwan160/portfolio/assets/108442182/711f226e-82b9-49ea-ba0a-b97dc32b36b4
+https://github.com/mouthchaos/PJ01_Backend_Ezen/assets/126880223/48d9ce4a-2197-4248-98fe-942ddec09cba
 
 회원가입 2
 
-https://github.com/jihwan160/portfolio/assets/108442182/886a4f02-afe2-4cfd-b30d-b1c0918e946d
+https://github.com/mouthchaos/PJ01_Backend_Ezen/assets/126880223/77c77f6a-1be8-4e9f-96a4-b555d258a7c7
 
 회원정보수정
 
-https://github.com/jihwan160/portfolio/assets/108442182/9dabf37a-4dbb-4032-b4ea-4e3dd8d0a5c7
+https://github.com/mouthchaos/PJ01_Backend_Ezen/assets/126880223/cd8fba51-589c-4a32-bfdc-df9fd6451fef
 
 회원탈퇴
 
-https://github.com/jihwan160/portfolio/assets/108442182/c927a107-ce51-4e76-8266-c3f51dcbfeaf
+https://github.com/mouthchaos/PJ01_Backend_Ezen/assets/126880223/08e3acc1-3336-4992-83d6-4b0e19052143
 
 관리자
 
-https://github.com/jihwan160/portfolio/assets/108442182/1dde22cb-4303-4382-8717-89ac93fc1669
+https://github.com/mouthchaos/PJ01_Backend_Ezen/assets/126880223/ea638072-5aad-4dbf-8aac-a00ccfae6c7f
